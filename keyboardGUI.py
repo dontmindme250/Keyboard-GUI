@@ -167,7 +167,7 @@ btn0.grid(row=0, column=9, sticky='news')
 buttonframe.pack(padx=20, pady=20)
 
 
-btn_a = tk.Button(letterframe, padx=100, text='A', font=('Roboto', 22, 'bold'), command=btn_a_clicked)
+btn_a = tk.Button(letterframe, text='A', font=('Roboto', 22, 'bold'), command=btn_a_clicked)
 btn_a.grid(row=0, column=0)
 
 btn_b = tk.Button(letterframe, text='B', font=('Roboto', 22, 'bold'), command=btn_b_clicked)
