@@ -5,5 +5,5 @@ Just a simple keyboard GUI made using Tkinter, it prints the characters onto the
 
 <img width="373" alt="image" src="https://github.com/Vumacc/Keyboard-GUI/assets/149380921/e01440bb-e950-417b-b056-645d91c1e4ae">
 
-# Expect these thing in the future
+# Upcoming updates in the future
 - special characters like `?, !, @, #, $, %` to be added
