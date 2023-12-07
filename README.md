@@ -1,12 +1,9 @@
-# Idk what to name this
-There's a some stuff that need fixing but I'm to lazy to do it now
+# Keyboard GUI
+Just a simple keyboard GUI made using Tkinter, it prints the characters onto the console. I'm still a complete beginner when it comes to anything Tkinter related so the UI looks kinda kinda bad.
 
-**This is what it looks like btw**
+**How it looks like**
 
-<img width="375" alt="image" src="https://github.com/Vumacc/Keyboard-GUI/assets/149380921/37d4ffe4-73d2-47c0-8e12-4e5581720fe8">
-
+<img width="373" alt="image" src="https://github.com/Vumacc/Keyboard-GUI/assets/149380921/e01440bb-e950-417b-b056-645d91c1e4ae">
 
 # Expect these thing in the future
-- For the UI to not look like shit (trust)
 - special characters like `?, !, @, #, $, %` to be added
-- Learn how to use tkinter properly
