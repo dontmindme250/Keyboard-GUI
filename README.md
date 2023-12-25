@@ -1,5 +1,5 @@
 # Keyboard GUI
-Just a simple keyboard GUI made using Tkinter, it prints the characters onto the console. I'm still a complete beginner when it comes to anything Tkinter related so the UI looks kinda kinda bad.
+Just a simple keyboard GUI made using Tkinter, it prints the characters onto the IDE console. I'm still a complete beginner when it comes to anything Tkinter related so the UI looks kinda kinda bad.
 
 **How it looks like**
 
